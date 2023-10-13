@@ -1,6 +1,7 @@
 # demo-innsiktsbibliotek
 
 Velkommen til et aldri så lite eksperiment 👋
+
 Kort forklart har vi prøvd å sette opp et innsiktsbibliotek i [Obsidian](https://obsidian.md/) for å se hvordan det kan fungere når man deler det i et team. Hvem utgjør det teamet? Jo, folk som deg. Iallefall i denne testen.
 På den måten kan vi lære av det sammen ved å ta i bruk noe helt konkret.
 
