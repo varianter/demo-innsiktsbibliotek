@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"93499c22f7768609","type":"text","text":"![[Kriterier for et innsiktsbibliotek#^hr97yp]]","x":-125,"y":-30,"width":465,"height":281},
+		{"id":"dfd99fa40f529c00","type":"text","text":"![[Kriterier for et innsiktsbibliotek#^v51zww]]","x":699,"y":297,"width":361,"height":425,"color":"6"},
+		{"id":"b531685c567873ed","x":1220,"y":297,"width":606,"height":731,"type":"text","text":"Du kan faktisk \"embedde\" en [[query]] i et [[Canvas]] også 🤔\n\n```query\ninnsiktsbibliotek\n```\n"}
+	],
+	"edges":[]
+}

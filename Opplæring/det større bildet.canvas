@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"","id":"e50f3f7fbdd5d8be","x":-460,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"## Det ene alternativet","id":"15ef909ae52fdd61","x":-503,"y":352,"width":383,"height":288,"color":"1"},
+		{"type":"text","text":"## Det andre alternativet","id":"7c84d537aeaee517","x":253,"y":348,"width":367,"height":292,"color":"5"},
+		{"type":"text","text":"Det kan også være nyttig å se hvor man kom fra, for å vite hvilken retning man burde gå.","id":"3b274395720f59a9","x":345,"y":839,"width":250,"height":110,"color":"5"},
+		{"type":"text","text":"Jeg er usikker på hvilken retning jeg skal ta det her i 🤔","id":"5d207a18932cdda5","x":-40,"y":-80,"width":250,"height":140},
+		{"type":"file","file":"Lærer bort Obsidian/blogginnlegg.md","id":"c4f27667f742f12e","x":1120,"y":1840,"width":400,"height":400},
+		{"type":"file","file":"Lærer bort Obsidian/Oversikt over Obsidian-læringa.canvas","id":"9805305338980686","x":2160,"y":1840,"width":400,"height":400},
+		{"type":"text","text":"Hvordan kan det se ut når man har flere tanker på samme tavle?","id":"ed7b32772d2637fd","x":1760,"y":1999,"width":250,"height":82,"color":"3"},
+		{"type":"text","text":"## Her er et tredje alternativ","id":"38eeae16d4d51dbb","x":-680,"y":180,"width":250,"height":70},
+		{"type":"text","text":"4. alternativ","id":"425587bd7a475adc","x":-80,"y":496,"width":250,"height":60},
+		{"id":"e84bed396973a4cb","x":-60,"y":288,"width":250,"height":60,"type":"text","text":"5. alternativ"},
+		{"type":"file","file":"Lærer bort Obsidian/Linker.md","id":"80f93bbe1cab631a","x":600,"y":1840,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"c6163a76c30bbc6a","fromNode":"5d207a18932cdda5","fromSide":"bottom","toNode":"15ef909ae52fdd61","toSide":"top"},
+		{"id":"510da818724947ca","fromNode":"5d207a18932cdda5","fromSide":"bottom","toNode":"7c84d537aeaee517","toSide":"top"},
+		{"id":"97e3ed37a2018d8e","fromNode":"7c84d537aeaee517","fromSide":"bottom","toNode":"3b274395720f59a9","toSide":"top"},
+		{"id":"937559b8e8ddc17f","fromNode":"3b274395720f59a9","fromSide":"bottom","toNode":"c4f27667f742f12e","toSide":"top"},
+		{"id":"a0c44164f26b1f85","fromNode":"c4f27667f742f12e","fromSide":"right","toNode":"ed7b32772d2637fd","toSide":"left"},
+		{"id":"9d38925d04731487","fromNode":"ed7b32772d2637fd","fromSide":"right","toNode":"9805305338980686","toSide":"left"}
+	]
+}
