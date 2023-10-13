@@ -11,8 +11,12 @@
             "id": "0e17ac2ea5ee4107",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Opplæring/Hvor starter jeg.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Opplæring/Hvor starter jeg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Opplæring/Hvor starter jeg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Opplæring/Hvor starter jeg.md"
+              }
             }
           }
         ],
@@ -150,21 +158,24 @@
   "active": "0e17ac2ea5ee4107",
   "lastOpenFiles": [
     "Untitled.md",
+    "Opplæring/Hvor starter jeg.md",
+    "Opplæring/daily notes.md",
+    "Opplæring/Backlinks.md",
+    "Ulike visninger, samme materiale.md",
+    "Sporbarhet.md",
+    "Dele opp innhold etter temaer.md",
     "Dashboard-visning.md",
     "Context/spacesLastSync.log",
     "Context",
     "Utforsker canvas-visninga.canvas",
     "Tagging.md",
     "Kriterier for et innsiktsbibliotek.md",
-    "Dele opp innhold etter temaer.md",
     "Bilder og vedlegg/Simens-skjermbilder-12-10-2023-kl17.26.png",
     "Bilder og vedlegg/Simens-skjermbilder-12-10-2023-kl17.25.png",
     "Bilder og vedlegg",
     "Auto-genererte visninger om spissa temaer.md",
     "Versjonshistorikk.md",
     "Utfordringer.md",
-    "Ulike visninger, samme materiale.md",
-    "Sporbarhet.md",
     "Opplæring/themes.md",
     "Opplæring/tags.md",
     "Opplæring/query.md",
@@ -174,7 +185,6 @@
     "Opplæring/innstillinger.md",
     "Opplæring/embedding.md",
     "Opplæring/det større bildet.canvas",
-    "Opplæring/daily notes.md",
     "Opplæring/context.mdb",
     "Opplæring/blogginnlegg.md",
     "Opplæring/Tilpasning.md",
@@ -182,8 +192,6 @@
     "Opplæring/Oversikt over Obsidian-læringa.canvas",
     "Opplæring/Obsidian.md",
     "Opplæring/Mapper.md",
-    "Opplæring/Lærer bort Obsidian.md",
-    "Opplæring/Linker.md",
     "Opplæring",
     "mappe uten navn"
   ]
