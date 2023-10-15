@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Flexoki"
+  "cssTheme": "Flexoki",
+  "showViewHeader": true,
+  "nativeMenus": true
 }
