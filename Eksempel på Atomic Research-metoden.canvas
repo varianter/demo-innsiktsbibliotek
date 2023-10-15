@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"94b736b07f9b477b","type":"group","x":-760,"y":-152,"width":480,"height":1232,"label":"Experiments"},
+		{"id":"5a8621dc0dd7ebc0","x":-240,"y":-152,"width":400,"height":400,"type":"group","label":"Facts"},
+		{"id":"68b96bca876fe0d0","type":"group","x":200,"y":-152,"width":400,"height":400,"label":"Insights"},
+		{"id":"e43b92319e2b26cb","type":"group","x":640,"y":-152,"width":400,"height":400,"label":"Recommendations"},
+		{"id":"31134eb22bb78172","x":-80,"y":-720,"width":400,"height":393,"type":"file","file":"Bilder og vedlegg/Pasted image 20230927105543.png"},
+		{"id":"5731e28b9d88d672","x":-180,"y":-120,"width":250,"height":60,"type":"text","text":"Dette blei sagt"},
+		{"id":"4a97252f1d92e802","type":"text","text":"Dette blei sagt","x":-180,"y":120,"width":250,"height":60},
+		{"id":"944f8b319d8723ef","type":"text","text":"Intervju med bruker (AI-generert fylltekst)\n\n**Intervjuer**: God dag, kan du fortelle meg om din typiske arbeidsdag som saksbehandler?\n\n**Saksbehandler**: Hei, jeg begynner dagen med å gjennomgå nye saker. Deretter jobber jeg med å undersøke, evaluere og lage notater. Jeg kommuniserer også med klienter og andre avdelinger.\n**Intervjuer**: Hva slags utfordringer støter du ofte på?\n\n\n**Saksbehandler**: Vel, det er mange administrative oppgaver og ofte er systemet tregt og lite effektivt. Det ville være flott å automatisere sensitiv informasjonshåndtering og forbedre systemets respons.\n\n**Intervjuer**: Har du noen ideer om hva som kan gjøre din jobbhverdag lettere?\n\n**Saksbehandler**: God filtrerings- og søkefunksjon ville være en betydelig hjelp. Også, en tydelig visualisering av saksprosessen ville være veldig nyttig.\n\n**Intervjuer**: Det er nyttig informasjon. Hvis du kunne prioritere en saksspesifikk funksjonalitet, hva ville det være?\n\n**Saksbehandler**: Personlig, vil jeg ha en funksjon som hjelper til med å spore og administrere mine pågående saker. Og, noen automatiserte påminnelser for viktige frister.\n\n**Intervjuer**: Det høres fornuftig ut. Hvordan føler du om bruk av AI i din rolle?\n\n**Saksbehandler**: Det kan definitivt være nyttig, spesielt i første analyseringsfase av saker og automatisk sortering.\n\n**Intervjuer**: Takk for din tid og innspill. Dette vil hjelpe oss å utvikle et mer brukervennlig system.\n","x":-720,"y":-120,"width":400,"height":1156},
+		{"id":"68099fe9a27fe63e","type":"text","text":"Dette blei sagt","x":-180,"y":40,"width":250,"height":60},
+		{"id":"e5b65a7e217a75a1","type":"text","text":"Dette blei sagt","x":-180,"y":-40,"width":250,"height":60},
+		{"id":"e3eeebd0ea00515c","type":"text","text":"Dette lærte vi","x":280,"y":40,"width":250,"height":60},
+		{"id":"30210120bb6deb7a","type":"text","text":"Dette lærte vi","x":280,"y":-40,"width":250,"height":60},
+		{"id":"fae33aa17e0fa3b6","x":720,"y":-40,"width":250,"height":170,"type":"text","text":"Dette anbefaler vi å gjøre\n- Forslag\n- Forslag\n- Forslag"}
+	],
+	"edges":[
+		{"id":"77bb99dfdadc8056","fromNode":"5731e28b9d88d672","fromSide":"right","toNode":"30210120bb6deb7a","toSide":"left"},
+		{"id":"dc112bf2fe798b71","fromNode":"e5b65a7e217a75a1","fromSide":"right","toNode":"e3eeebd0ea00515c","toSide":"left"},
+		{"id":"6ef62d9ef8f79d6b","fromNode":"68099fe9a27fe63e","fromSide":"right","toNode":"30210120bb6deb7a","toSide":"left"}
+	]
+}
