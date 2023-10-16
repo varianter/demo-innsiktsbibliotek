@@ -10,13 +10,15 @@ For å senke den terskelen har vi lagd noen filmer så du kan se hvordan det fun
 
 ## Hvordan komme i gang
 
-Se på [den filmen her](https://github.com/varianter/demo-innsiktsbibliotek/assets/72508979/1772cc0b-6c77-4626-8dcf-b7a69d76c8b5) for å lage en lokal kopi av innsiktsbiblioteket som du kan jobbe med.
+Se på filmen under for å se hvordan du lager din egen lokale kopi av innsiktsbiblioteket som du kan jobbe med.
 
 https://github.com/varianter/demo-innsiktsbibliotek/assets/72508979/1772cc0b-6c77-4626-8dcf-b7a69d76c8b5
 
 ## Hvordan dele endringene dine med andre
 
-For at vi andre skal kunne se arbeidet ditt så bruker vi github for å holde kontroll på ulike versjoner. Det her er ikke noe hokus-pokus, og du kan faktisk se hvordan det gjøres i [denne filmen her](https://github.com/varianter/demo-innsiktsbibliotek/assets/72508979/1772cc0b-6c77-4626-8dcf-b7a69d76c8b5)
+For at vi andre skal kunne se arbeidet ditt så bruker vi github for å holde kontroll på ulike versjoner. Det her er ikke noe hokus-pokus, og du kan faktisk se hvordan det gjøres i filmen nedenfor:
+
+https://github.com/varianter/demo-innsiktsbibliotek/assets/72508979/47db282d-b254-4fa6-a641-f352a9e5bf62
 
 ## Hvorfor Obsidian?
 
