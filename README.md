@@ -10,7 +10,7 @@ For å senke den terskelen har vi lagd noen filmer så du kan se hvordan det fun
 
 ## Hvordan komme i gang
 
-Se på filmen under for å se hvordan du lager din egen lokale kopi av innsiktsbiblioteket som du kan jobbe med.
+Se på filmen under for å se hvordan du lager din egen lokale kopi av innsiktsbiblioteket som du kan jobbe med:
 
 https://github.com/varianter/demo-innsiktsbibliotek/assets/72508979/1772cc0b-6c77-4626-8dcf-b7a69d76c8b5
 
