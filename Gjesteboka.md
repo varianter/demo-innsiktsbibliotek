@@ -1,4 +1,4 @@
-# Deling med flere
+# Gjesteboka
 
 Forhåpentligvis skal det gå greit å dele det her med flere, men for å bevise at det har gått greit så kan du jo skrive under i gjesteboka:
 
